@@ -187,7 +187,7 @@ export default function Home() {
               <span className="text-lg font-semibold">A</span>
             </div>
             <div>
-              <p className="text-sm uppercase tracking-widest text-gray-400">Arcrow</p>
+              <p className="text-sm uppercase tracking-widest text-gray-400">Arcscrow</p>
               <h1 className="text-xl font-semibold">Payment Escrow on Arc Network</h1>
             </div>
           </div>
@@ -239,7 +239,7 @@ export default function Home() {
         </section>
 
         <section className="mt-16 rounded-2xl border border-gray-800 bg-gray-900/60 p-8">
-          <h3 className="text-2xl font-semibold">How Arcrow Works</h3>
+          <h3 className="text-2xl font-semibold">How Arcscrow Works</h3>
           <div className="mt-6 grid gap-6 md:grid-cols-3">
             <FeatureCard
               title="Sequential Approval"

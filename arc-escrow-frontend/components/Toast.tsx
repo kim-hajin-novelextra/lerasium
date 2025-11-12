@@ -41,7 +41,7 @@ export default function Toast({ message, type = 'info', onClose, duration = 5000
           <p className="text-white text-sm">{message}</p>
           {txHash && (
             <a
-              href={`https://testnet.arcscan.io/tx/${txHash}`}
+              href={`https://testnet.arcscan.app/tx/${txHash}`}
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:text-blue-300 text-xs mt-2 inline-flex items-center gap-1 underline"

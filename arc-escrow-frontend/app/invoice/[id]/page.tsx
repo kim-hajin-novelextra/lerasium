@@ -204,7 +204,7 @@ export default function InvoicePage({ params }: { params: Promise<{ id: string }
                 <span className="text-white font-bold text-xl">A</span>
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">Arcrow</h1>
+                <h1 className="text-xl font-bold text-white">Arcscrow</h1>
                 <p className="text-xs text-gray-400">
                   {invoice.title || `Invoice #${invoice.id.toString()}`}
                 </p>

@@ -28,7 +28,7 @@ export const arcTestnet = defineChain({
 
 // Wagmi configuration
 export const config = getDefaultConfig({
-  appName: 'Arcrow',
+  appName: 'Arcscrow',
   projectId: process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID || '0000000000000000000000000000000a',
   chains: [arcTestnet],
   ssr: true,

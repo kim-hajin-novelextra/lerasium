@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Arcrow - B2B Payment Escrow",
+  title: "Arcscrow - B2B Payment Escrow",
   description: "Fast, predictable B2B escrow service on Arc Network",
 };
 

@@ -97,7 +97,7 @@ export default function CreateInvoice() {
                 <span className="text-white font-bold text-xl">A</span>
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">Arcrow</h1>
+                <h1 className="text-xl font-bold text-white">Arcscrow</h1>
                 <p className="text-xs text-gray-400">Create Invoice</p>
               </div>
             </Link>
